@@ -28,7 +28,8 @@ Proje örnek amaçlı küçük bir metin koleksiyonu kullanır. İstendiğinde d
 ## Kullanım
 - Colab üzerinde tüm hücreleri çalıştırın.
 - Gradio arayüzü açıldığında soru girip test edin.
+  
+## Deploy & Web Arayüzü
+-Gradio demo linki: https://9c63a6ef8548b55e9a.gradio.live
 
 
-## Deploy
-- İsterseniz bu Gradio uygulamasını HuggingFace Spaces veya başka bir ortamda deploy edebilirsiniz.
