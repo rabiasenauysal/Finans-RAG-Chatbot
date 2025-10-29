@@ -1,6 +1,11 @@
-
-sentence-transformers
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-google-genai==2.1.12
+langchain-huggingface==0.1.0
+sentence-transformers==3.1.1
 faiss-cpu
-transformers[torch]
-gradio==3.39.1
-accelerate
+pypdf
+streamlit
+google-generativeai
+numpy==1.26.4
+protobuf==4.25.5
