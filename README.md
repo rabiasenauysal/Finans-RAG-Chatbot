@@ -31,9 +31,14 @@ Proje örnek amaçlı küçük bir metin koleksiyonu kullanır. İstendiğinde d
   
 ## Deploy & Web Arayüzü
 -Gradio demo linki: https://9c63a6ef8548b55e9a.gradio.live
+<img width="1917" height="966" alt="Screenshot 2025-10-29 153550" src="https://github.com/user-attachments/assets/8281027e-7cf2-4855-b76f-c7d3adfcf254" />
+
 
 # DÜZELTME!!!!!!!!!!!!!!!!
 -Streamlit demo linki: https://finans-rag-chatbot-gpxgexdxs49bpfuydotrd8.streamlit.app/
+<img width="1919" height="1017" alt="Screenshot 2025-10-29 160105" src="https://github.com/user-attachments/assets/789a431f-8a60-4f26-9ab2-d47f275d4fc7" />
+
+
 
 
 
