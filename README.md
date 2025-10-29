@@ -33,7 +33,6 @@ Proje örnek amaçlı küçük bir metin koleksiyonu kullanır. İstendiğinde d
 -Gradio demo linki: https://9c63a6ef8548b55e9a.gradio.live
 
 # DÜZELTME!!!!!!!!!!!!!!!!
--Gradio demo linki:
 -Streamlit demo linki: https://finans-rag-chatbot-gpxgexdxs49bpfuydotrd8.streamlit.app/
 
 
